@@ -37,8 +37,10 @@ TITLE_FONT = (font_name, 18, "bold")
 LISTBOX_FONT = (font_name, 12)
 SMALL_FONT = (font_name, 11)
 
-client_id = "56cfa60da43b45ffb20a13410cd1e61d"
-client_secret = "eb3f1543955a492bb9852546d9792b51"
+#use your own Spotify API credentials (client_id and client_secret)
+#Replace these with your own:
+client_id = ("SPOTIFY_CLIENT_ID")
+client_secret = ("SPOTIFY_CLIENT_SECRET")
 
 BASE_DIR = get_base_path()
 SONGS_DIR = os.path.join(BASE_DIR, "songs")
