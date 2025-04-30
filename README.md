@@ -17,7 +17,13 @@
 
 ## Screenshots
 
-*Coming soon! Screenshots of the TuneGrab interface will be added to showcase the app's look and feel.*
+![image](https://github.com/user-attachments/assets/b5381964-3d20-4f36-a9a9-c2eede32b6cd)
+
+![image](https://github.com/user-attachments/assets/69c2646e-c236-4965-b109-aed8640861a3)
+
+
+
+
 
 ---
 
