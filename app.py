@@ -38,7 +38,7 @@ LISTBOX_FONT = (font_name, 12)
 SMALL_FONT = (font_name, 11)
 
 #use your own Spotify API credentials (client_id and client_secret)
-#Replace these with your own:
+#Replace these with your own
 client_id = ("SPOTIFY_CLIENT_ID")
 client_secret = ("SPOTIFY_CLIENT_SECRET")
 
